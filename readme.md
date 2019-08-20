@@ -1,6 +1,6 @@
 # Fast Gaussian Process and Utilities
 
-A Gaussian processes framework in MATLAB based on modified [GPML v4.0](http://www.gaussianprocess.org/gpml/code/matlab/doc/). It includes many useful utilities for using GPML for Bayesian Optimization. This code has the following features:
+A Gaussian processes framework in MATLAB based on an extensively modified version of [Carl Rasmussen](http://mlg.eng.cam.ac.uk/carl/) and [Hannes Nickisch's](http://hannes.nickisch.org/) [GPML v4.0](http://www.gaussianprocess.org/gpml/code/matlab/doc/). It includes many useful utilities for using GPML for Bayesian Optimization. This code has the following features:
 
 - Gaussian process regression diagnostic tools to test model efficacy; 
 - Easy plotting of 1D and 2D data and functions;
