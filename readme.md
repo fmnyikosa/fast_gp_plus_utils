@@ -8,7 +8,7 @@ A Gaussian processes framework in MATLAB based on modified [GPML v4.0](http://ww
 - Automatic data standardization utilities;
 - Automatic conditioning of ill-fitted data;
 - Automatic logging for sequential prediction problems via a formatted cell struct;
-- Optional covaraince matrix using SVD rather than Cholesky decomposition;
+- Optional covariance matrix using SVD rather than Cholesky decomposition;
 - Integration of Tom Minka's [Lightspeed](https://github.com/tminka/lightspeed) toolbox to increase matrix operation speed.   
 
 ## Setup
