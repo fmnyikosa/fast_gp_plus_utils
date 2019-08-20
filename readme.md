@@ -4,7 +4,6 @@ A Gaussian processes framework in MATLAB based on modified [GPML v4.0](http://ww
 
 - Gaussian process regression diagnostic tools to test model efficacy; 
 - Easy plotting of 1D and 2D data and functions;
-![alt text][1D GP Regression](regression.png)
 - Dummy data generation tools;
 - Automatic data standardization utilities;
 - Automatic conditioning of ill-fitted data;
